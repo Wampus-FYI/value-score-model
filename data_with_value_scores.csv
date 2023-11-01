@@ -1,0 +1,29 @@
+,apt_building,num_beds,num_baths,overall_rating,Year Built,year_num,Includes a parking lot,No window,No gym,No pool,Unfurnished,apt_dists,Value_Score,Rent,Predicted_Rent
+57,Hilltop,5,5,3,2020,4,False,False,False,False,False,0.7,73.52876063453807,1025.0,1026.1437
+15,Regents West on 26th,4,2,5,2012,4,False,False,False,True,True,0.8,25.869346374522323,854.0,758.4836
+68,Torre,6,6,5,2021,4,True,True,False,False,False,0.4,85.25860311837151,1299.0,1323.9335
+76,Villas on Nueces,3,3,5,2019,4,True,False,False,False,False,0.4,100.0,1200.0,1349.8661
+6,Crest at Pearl,4,4,4,2015,4,True,False,False,False,False,0.6,93.45238736341297,1015.0,1056.5516
+84,Block on 25th East,2,2,4,0,3,False,True,False,True,False,,0.0,1200.0,1033.1459
+120,Waterloo,6,6,3,2022,4,False,False,False,False,False,,67.0070052894735,1200.0,1187.9166
+38,Axis West Campus,4,4,3,2012,4,False,False,False,False,False,0.9,100.0,975.0,1075.08
+129,Callaway,2,2,4,2013,4,False,False,False,False,False,0.3,0.0,3800.0,3634.3552
+53,Villas on Rio,2,2,5,2021,4,True,False,False,False,False,0.4,100.0,1458.0,2096.0376
+5,Lark,4,4,5,2019,3,False,False,False,False,False,0.4,100.0,1000.0,1067.6382
+91,Quarters Grayson House,2,2,3,2008,4,False,False,False,True,True,0.5,47.85216276288099,1230.0,1179.0679
+125,Villas on Rio,2,2,2,2021,4,True,False,False,False,False,0.4,100.0,1520.0,2173.7642
+50,26 West,4,4,5,2008,4,True,False,False,False,False,0.6,44.5468962741596,960.0,902.3643
+41,Quarters Grayson House,4,4,4,2008,3,True,False,False,False,False,0.5,100.0,750.0,1037.5513
+31,Skyloft,3,3,2,2018,5,True,False,False,False,False,0.3,61.46306785330108,1060.0,1036.6727
+42,Nine at Rio,4,4,4,2019,4,True,True,False,False,False,0.5,78.20412179081251,1050.0,1060.626
+14,Legacy on Rio,4,4,2,2021,4,True,False,False,True,False,0.7,100.0,1100.0,1161.271
+77,Quarters Nueces House,2,2,4,2008,3,False,False,False,False,True,0.4,100.0,1000.0,1179.0167
+8,Yugo Austin Nueces,4,2,3,2018,3,False,True,False,False,False,,100.0,1035.0,1202.1896
+70,26 West,2,4,4,2008,2,True,False,False,False,False,0.6,23.908203334119293,1200.0,1100.5061
+111,2400 Nueces,1,1,4,2012,4,True,False,False,False,False,0.4,100.0,1550.0,1666.523
+115,Legacy on Rio,5,4,3,2021,4,True,False,False,True,False,0.7,100.0,1000.0,1139.4548
+96,2400 Nueces,1,1,4,2012,1,True,False,False,False,True,0.4,47.45883271027663,1825.0,1773.2701
+122,The Corner,4,3,4,0,4,True,False,True,True,False,,83.35442823325386,1100.0,1121.0715
+25,2215,1,1,4,2016,4,True,False,False,False,True,,68.12807117467757,1550.0,1540.1903
+116,Buena Vista Condos,2,2,4,1982,4,True,False,True,True,True,0.4,0.0,1800.0,1500.0857
+88,Lark,3,3,4,2019,4,True,True,False,False,False,0.4,27.846980988668832,1100.0,1008.4945
